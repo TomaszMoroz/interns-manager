@@ -17,6 +17,7 @@ const routes = [
     path: "/edit-user/:id",
     name: "EditUser",
     component: EditUser,
+    props: true
   },
 ];
 
